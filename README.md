@@ -11,7 +11,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-   Projeto "recriando snkae game" da Digital Innovation One.
+   Projeto "recriando snake game" da Digital Innovation One.
    O intuito do projeto é exercitar a criatividade, desenvolver habilidades práticas e adquirir experiência enquanto o portfólio também é construído.
    É o primeiro do tipo, mas pretendo fazer várias modificações em breve
 </p>
