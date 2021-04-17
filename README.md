@@ -23,6 +23,7 @@
 <p align="center">
 <img src="https://github.com/obamis/snakeGame-Dio/blob/master/resources/playSnake.gif"/>
 </p>
+
   ## Licença 
 The [MIT License]() (MIT)
 Copyright :copyright: 2021 - SnakeGame
