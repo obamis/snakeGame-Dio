@@ -1,4 +1,4 @@
-# <h1 align="center"> Snake Game <br> <img src="https://github.com/obamis/snakeGame-Dio/blob/master/img/Snake.ico"/></h1>
+# <h1 align="center"> Snake Game <br> <img src="https://raw.githubusercontent.com/obamis/snakeGame-Dio/af62b62062ea2629c6ffbeef910209341c5110c2/resources/snake.svg"/></h1>
 <p>
 <img src="https://img.shields.io/badge/-Html-E34F26?logo=HTML5&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-css-1572b6?logo=CSS3&logoColor=white&style=for-the-badge"/>
